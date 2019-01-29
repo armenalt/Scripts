@@ -1,3 +1,5 @@
+# Solution for PicoCTF 2018 Cryptography challenge: caesar cipher 2
+
 cipher = input("Ciphertext: ")
 iterations = int(input("Number of interations: "))
 flag_format = "picoCTF"
